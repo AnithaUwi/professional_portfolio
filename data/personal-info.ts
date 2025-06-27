@@ -1,0 +1,8 @@
+const personalInfo = {
+  name: "Anitha Uwimpuhwe",
+  title: "Aspiring Software Engineer and a cybersecurity enthusiast",
+  about:
+    "I’m a Software Engineering student at African Leadership University (Year 2) with a strong passion for cybersecurity, holding an (ISC)² Cybersecurity Certification. I love building secure, efficient software and enjoy problem-solving in coding and security. My goal is to merge development with cybersecurity best practices to create resilient systems.",
+} as const
+
+export default personalInfo

@@ -1,0 +1,18 @@
+[
+  { 
+    "language": "English",
+    "level": "Advanced"
+  },
+  { 
+    "language": "French", 
+    "level": "basic"
+  },
+  { 
+    "language": "Kinyarwanda", 
+    "level": "Native"
+  },
+  { 
+    "language": "Swahili", 
+    "level": "Basics"
+  }
+]

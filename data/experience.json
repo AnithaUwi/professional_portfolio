@@ -1,0 +1,38 @@
+[
+  {
+    "title": "DSE Program Trainee",
+    "institution": "kLab",
+    "duration": "May 2025 - Present",
+    "description": "participating in an everyday bootcamp program focused on full stack web development skills."
+  },
+  {
+    "title": "Software Engineer Intern",
+    "institution": "IDA Technology",
+    "duration": "april 2022 - june 2022",
+    "description": "Developed and maintained websites using html,css, javascript, php, sql,..."
+  },
+  {
+    "title": "certified Kubernetes and claud native associate",
+    "institution": "The Linux Foundation",
+    "duration": "may 2025",
+    "description": "3 Weeks Intensive program  remote."
+  },
+  
+  {
+    "title": "Google Developers Group Member",
+    "institution": "Google Developers Group",
+    "duration": "Ongoing",
+    "description": "Active participant in local developer meetups and events in kigali, Rwanda."
+  },
+  {
+    "title": "ISC2 CANDIDATE",
+    "institution": "ISC2 organization",
+    "duration": "expecting to be certified in  august 2025",
+    "description": "remote"
+  },
+  {
+    "title": "Volunteering at Ishyo development foundation",
+    "institution": "Kigali, Rwanda",
+    "description": "Participation in local meetups and charity events."
+  }
+]
