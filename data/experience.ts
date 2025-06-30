@@ -35,6 +35,13 @@ const experience = [
     duration: "",
     description: "Participation in local meet-ups and charity events.",
   },
+  {
+    title: "An active member of Women in blockchain Africa",
+    institution: "Africa",
+    duration: "",
+    description: "an active member of women in block chain Africa, a community that empowers women in the blockchain space.",
+  }
+  
 ] as const
 
 export default experience
