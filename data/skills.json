@@ -32,6 +32,12 @@
     "icon": "SiFigma",
     "years": "1 Year",
     "level": "Intermediate"
+  },
+  {
+    "name": "Git version control",
+    "icon": "FaGitAlt",
+    "years": "4 Year",
+    "level": "Intermediate"
   }
   
 ]

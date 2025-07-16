@@ -28,4 +28,18 @@
     ],
     "live": "not yet deployed",
     "code": "https://github.com/mutabazi-bruno/MoMo-Data-Analysis-Summative-Group-32.git"
+  },
+{
+    "id": "9",
+    "image": "/assets/gerayo.png",
+    "title": "Task management app",
+    "description": "A task management app is a software application designed to help users organize, prioritize, and track their tasks and projects. It typically includes features such as task creation, due dates, reminders, and progress tracking. The app aims to enhance productivity by providing a structured way to manage daily tasks and long-term projects.",
+    "languages": [
+      "NextJS",
+      "TAILWIND CSS",
+      "NODEJS",
+      "SQL"
+    ],
+    "live": "https://gerayo.sorwazini.tech/",
+    "code": "https://github.com/AnithaUwi"
   }]

@@ -10,6 +10,7 @@ const skills = [
   { name: "Sql & No-Sql Databases", years: "1 Year", level: "Intermediate" },
   { name: "Python", years: "2 Years", level: "Intermediate" },
   { name: "PHP", years: "2 Years", level: "Intermediate" },
+  { name: "Git version control", years: "2 Years", level: "Intermediate" },
 ] as const
 
 export default skills
