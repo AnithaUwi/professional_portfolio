@@ -1,12 +1,14 @@
-# andasy.hcl app configuration file generated for proffesional on Wednesday, 06-Aug-25 15:13:37 SAST
+# andasy.hcl app configuration file generated for portfolioanitha on Wednesday, 06-Aug-25 16:00:42 SAST
 #
 # See https://github.com/quarksgroup/andasy-cli for information about how to use this file.
 
-app_name = "proffesional"
+app_name = "portfolioanitha"
 
 app {
 
-  env = {}
+  env = {
+    HOST = "::"
+  }
 
   port = 3000
 
@@ -17,7 +19,7 @@ app {
   }
 
   process {
-    name = "proffesional"
+    name = "portfolioanitha"
   }
 
 }
