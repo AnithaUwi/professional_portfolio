@@ -1,9 +1,9 @@
 const experience = [
   {
-    title: "DSE Program Trainee",
+    title: "DSE tekher Program Trainee",
     institution: "kLab",
-    duration: "May 2025 – Present",
-    description: "Participating in an everyday bootcamp program focused on full-stack web-development skills.",
+    duration: "May 2025 – september 2025",
+    description: "Participating in an everyday bootcamp program focused on full-stack web & mobile  app-development skills.",
   },
   {
     title: "Software Engineer Intern",
@@ -40,7 +40,20 @@ const experience = [
     institution: "Africa",
     duration: "",
     description: "an active member of women in block chain Africa, a community that empowers women in the blockchain space.",
+  },
+  {
+    title: "volunteer –",
+    institution: "Rwanda biomedical center",
+    duration: "2020 - 2021",
+    description: "volunteer under Rbc in facilitating citizen when fighting against covid-19.",
+  },
+   {
+    title: "Community Youth leader",
+    institution: "Rwanda, Bumbogo sector",
+    duration: "2024- 2029",
+    description: "voted to be a community youth vice-president in my sector.",
   }
+
   
 ] as const
 
