@@ -2,7 +2,7 @@ const education = [
   {
     title: "Bachelor of Science in Software Engineering",
     institution: "AFRICAN LEADERSHIP UNIVERSITY, Kigali, Rwanda",
-    duration: "May 2024 – Present",
+    duration: "Present",
   },
   {
     title: "High School Diploma in Software Development",
