@@ -51,7 +51,7 @@ const projects = [
   },
   {
     id: "ngoproject",
-    image: "/pro.png",
+    image: "/pro.PNG",
     title: "  Protect-rightsRwanda is an NGO that helps homeless children and underserved families and here is their website ",
     description:
       "Here is the official website for protect-rights Rwanda, which is a regitered NGO located here in Rwanda  ",
