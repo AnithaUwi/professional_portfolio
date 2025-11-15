@@ -41,7 +41,7 @@ const projects = [
   },
    {
     id: "ijuruproject",
-    image: "./iju.png",
+    image: "/iju.png",
     title: "  Ijuru hub's co-working spaces management platform ",
     description:
       "Ijuru hub is a coworking space located in kigali, kimironko and here is the platform that allows different users to book the space online",
@@ -51,7 +51,7 @@ const projects = [
   },
   {
     id: "ngoproject",
-    image: "./pro.png",
+    image: "/pro.png",
     title: "  Protect-rightsRwanda is an NGO that helps homeless children and underserved families and here is their website ",
     description:
       "Here is the official website for protect-rights Rwanda, which is a regitered NGO located here in Rwanda  ",
