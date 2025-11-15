@@ -1,15 +1,27 @@
 const experience = [
   {
-    title: "DSE tekher Program Trainee",
+    title: "DSE tekher Program Trainee(Fullstack Development)",
     institution: "kLab",
     duration: "May 2025 – september 2025",
-    description: "Participating in an everyday bootcamp program focused on full-stack web & mobile  app-development skills.",
+    description: "Participated in an everyday bootcamp program focused on full-stack web & mobile  app-development skills.",
   },
   {
-    title: "Software Engineer Intern",
+    title: "Software Development Intern",
     institution: "IDA Technology",
     duration: "Apr 2022 – Jun 2022",
     description: "Developed and maintained websites using HTML, CSS, JavaScript, PHP, SQL, …",
+  },
+    {
+    title: "Software Developer",
+    institution: "stellars Technologies",
+    duration: "Apr 2024 – Jan 2025",
+    description: "Developed and maintained software projects using Reactjs, nextjs, postgress, sql databases,...",
+  },
+    {
+    title: "Software engineer Intern",
+    institution: "The Campus EDU",
+    duration: "sept 2025 ",
+    description: "Helped in creating digital visibility of the company (official website) and helped them with day to day technical support",
   },
   {
     title: "Certified Kubernetes and Cloud-Native Associate",
@@ -26,7 +38,7 @@ const experience = [
   {
     title: "ISC2 Candidate",
     institution: "ISC2 Organization",
-    duration: "Expecting certification Aug 2025",
+    duration: " Aug 2025",
     description: "Remote.",
   },
   {
@@ -47,13 +59,13 @@ const experience = [
     duration: "2020 - 2021",
     description: "volunteer under Rbc in facilitating citizen when fighting against covid-19.",
   },
-   {
+   /*{
     title: "Community Youth leader",
     institution: "Rwanda, Bumbogo sector",
     duration: "2024- 2029",
     description: "voted to be a community youth vice-president in my sector.",
   }
-
+*/
   
 ] as const
 
