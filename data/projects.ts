@@ -41,7 +41,7 @@ const projects = [
   },
    {
     id: "ijuruproject",
-    image: "/iju.png",
+    image: "/iju.jpg",
     title: "  Ijuru hub's co-working spaces management platform ",
     description:
       "Ijuru hub is a coworking space located in kigali, kimironko and here is the platform that allows different users to book the space online",
