@@ -6,7 +6,7 @@ const projects = [
     description:
       "Gerayo is a mobile application designed to provide real-time information about public transport in Rwanda. Users can find nearby bus stops, view bus schedules, and track buses live.",
     languages: ["ReactJS", "Tailwind CSS", "NodeJS", "Firebase"],
-    live: "https://gerayo.sorwazini.tech/",
+    live: "https://gerayo.onrender.com/",
     code: "https://github.com/AnithaUwi",
   },
   {
