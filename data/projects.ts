@@ -40,7 +40,7 @@ const projects = [
     code: "https://github.com/Ntare-GAMA/Save-Life.git",
   },
    {
-    id: "class_project",
+    id: "ijuruproject",
     image: "/iju.png",
     title: "  Ijuru hub's co-working spaces management platform ",
     description:
@@ -50,13 +50,13 @@ const projects = [
     code: "https://github.com/AnithaUwi/Ijuru_Hub_Project.git",
   },
   {
-    id: "class_project",
+    id: "ngoproject",
     image: "/pro.png",
     title: "  Protect-rightsRwanda is an NGO that helps homeless children and underserved families and here is their website ",
     description:
       "Here is the official website for protect-rights Rwanda, which is a regitered NGO located here in Rwanda  ",
     languages: ["HTML5", "CSS3", "JAVASCRIPT"],
-    live: "https://professional-portfolio-zeta-wheat.vercel.app/",
+    live:"https://pro-rights-project.vercel.app/",
     code: "https://github.com/AnithaUwi/Pro_rights_project.git",
   },
 ] as const
