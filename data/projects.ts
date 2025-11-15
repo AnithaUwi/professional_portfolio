@@ -39,6 +39,26 @@ const projects = [
     live: "not yet deployed",
     code: "https://github.com/Ntare-GAMA/Save-Life.git",
   },
+   {
+    id: "class_project",
+    image: "/iju.png",
+    title: "  Ijuru hub's co-working spaces management platform ",
+    description:
+      "Ijuru hub is a coworking space located in kigali, kimironko and here is the platform that allows different users to book the space online",
+    languages: ["REACTJS", "TAILWIND", "EXPRESSJS", "PGSQL", "JAVASCRIPT"],
+    live: "not yet deployed",
+    code: "https://github.com/AnithaUwi/Ijuru_Hub_Project.git",
+  },
+  {
+    id: "class_project",
+    image: "/pro.png",
+    title: "  Protect-rightsRwanda is an NGO that helps homeless children and underserved families and here is their website ",
+    description:
+      "Here is the official website for protect-rights Rwanda, which is a regitered NGO located here in Rwanda  ",
+    languages: ["HTML5", "CSS3", "JAVASCRIPT"],
+    live: "https://professional-portfolio-zeta-wheat.vercel.app/",
+    code: "https://github.com/AnithaUwi/Pro_rights_project.git",
+  },
 ] as const
 
 export default projects
