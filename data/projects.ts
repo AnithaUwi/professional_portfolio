@@ -66,7 +66,7 @@ const projects = [
     title: "  Rwanda Community Complaint Management System ",
     description:
       "Menyesha is a digital platform that enables citizens to report community issues and allows government institutions to efficiently manage and resolve them through a structured workflow.  ",
-    Techstack: ["REACTJS", "TAILWIND", "JAVASCRIPT","EXPRESJS"],
+    languages: ["REACTJS", "TAILWIND", "JAVASCRIPT","EXPRESJS"],
     live:"https://menyesha-platform.vercel.app",
     code: "https://github.com/AnithaUwi/Menyesha-platform",
   },

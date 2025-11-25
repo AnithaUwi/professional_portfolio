@@ -207,7 +207,7 @@ export default function Portfolio() {
           </div>
 
           <div className="grid lg:grid-cols-2 gap-10">
-            {projects.map((project) => (
+            {projects?.map((project) => (
               <Card
                 key={project.id}
                 className="group overflow-hidden hover:shadow-2xl transition-all duration-500 border-0 shadow-lg hover:scale-[1.02] bg-gradient-to-br from-white to-slate-50"
