@@ -61,7 +61,7 @@ const projects = [
   },
 
   {
-    id: "menyesha project",
+    id: "menyeshaproject",
     image: "/menyesha.PNG",
     title: "  Rwanda Community Complaint Management System ",
     description:
@@ -69,7 +69,7 @@ const projects = [
     Techstack: ["REACTJS", "TAILWIND", "JAVASCRIPT","EXPRESJS"],
     live:"https://menyesha-platform.vercel.app",
     code: "https://github.com/AnithaUwi/Menyesha-platform",
-  }
+  },
 ] as const
 
 export default projects
