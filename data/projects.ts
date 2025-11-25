@@ -69,7 +69,7 @@ const projects = [
     Techstack: ["REACTJS", "TAILWIND", "JAVASCRIPT","EXPRESJS"],
     live:"https://menyesha-platform.vercel.app",
     code: "https://github.com/AnithaUwi/Menyesha-platform",
-  },
+  }
 ] as const
 
 export default projects
