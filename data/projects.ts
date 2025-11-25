@@ -59,6 +59,17 @@ const projects = [
     live:"https://pro-rights-project.vercel.app/",
     code: "https://github.com/AnithaUwi/Pro_rights_project.git",
   },
+
+  {
+    id: "menyesha project",
+    image: "/menyesha.PNG",
+    title: "  Rwanda Community Complaint Management System ",
+    description:
+      "Menyesha is a digital platform that enables citizens to report community issues and allows government institutions to efficiently manage and resolve them through a structured workflow.  ",
+    Techstack: ["REACTJS", "TAILWIND", "JAVASCRIPT","EXPRESJS"],
+    live:"https://menyesha-platform.vercel.app",
+    code: "https://github.com/AnithaUwi/Menyesha-platform",
+  },
 ] as const
 
 export default projects
